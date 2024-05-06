@@ -4,6 +4,9 @@
 
 The goal of this project is to automate the process of summarizing preferred YouTube channels and videos without having to watch each one individually. Users will input their preferred YouTube channels and video links along with brief descriptions. An AI-based solution will then query the YouTube API to collect transcripts, descriptions, links, view counts, and other relevant data for each video. Based on this data, the system will generate summaries for all videos, and then aggregate these summaries to create a preference list to help users identify which videos are worth watching.
 
+![Youtube summarizer flow!](/youtube-channel-daily.png")
+
+
 ## Features
 * User input of preferred YouTube channels and video links.
 * Retrieval of video data using the YouTube API.
